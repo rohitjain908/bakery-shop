@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Carrot Cake",
+    "description": "Our carrot cake is a moist fluffy sweet tender classic two layered cake , packed with flavour and topped with the most delicious decadent cream cheese frosting.",
+    "image": "/images/carrotcake_medium.jpg",
+    "price": "130",
+    "category": "Cake"
+  },
+  {
+    "id": 2,
+    "name": "Trio Mousse Cake",
+    "description": "Trio Mousse cake is a soft mousse cake consistibg of whipped cream flavoured with layers of dark chocolate , milk chocolate, white chocolate.",
+    "image": "/images/TRIO_MOUSSE_CAKE_medium.jpg",
+    "price": "1000",
+    "category": "Cake"
+  },
+  {
+    "id": 3,
+    "name": "Jim Jam Cookies",
+    "description": "Jim Jam Cookies is a shortbread cookie with two layers sandwitched with a filling of raspberry jam. Available in a pack of 200 gms.",
+    "image": "/images/Jimjamcookies_medium.jpg",
+    "price": "170",
+    "category": "Cookies"
+  },
+  {
+    "id": 4,
+    "name": "Cranberry Cookies",
+    "description": "Cranberry cookie is a cookie rolled out of sweet buttery cookie having dried cranberries. Available in a pack of 170 gms.",
+    "image": "/images/Cranberrycookies.jpg",
+    "price": "185",
+    "category": "Cookies"
+  },
+  {
+    "id": 5,
+    "name": "Veg Club Sandwich",
+    "description": "Veg Club Sandwich is a traditional sandwich with veggies, mayonnaise filling , diced tomatoes layered in brown bread slices , grilled to perfection.",
+    "image": "/images/Veg_club_sandwich.jpg",
+    "price": "250",
+    "category": "Sandwich"
+  },
+  {
+    "id": 6,
+    "name": "Paneer Khurchan Sandwich",
+    "description": "Paneer Khurchan Sandwich is a sliced brown bread sandwich filled with seasoned paneer /cottage cheese, tossed with bell peppers , grilled to perfection.",
+    "image": "/images/PANEER_KHURCHAN.jpg",
+    "price": "220",
+    "category": "Sandwich"
+  }
+]
