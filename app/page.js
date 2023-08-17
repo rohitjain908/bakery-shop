@@ -40,8 +40,10 @@ function Card({ id, name, image, price, category, description }) {
       <div className="hidden">{description}</div>
 
       <button
-        className={`border-[1px] absolute top-[375px] bg-white left-[75px] border-gray-300 text-red-400 p-3 rounded-lg ${
-          index == -1 ? "" : " bg-slate-400 text-black"
+        className={`border-[1px] absolute top-[375px]  left-[75px] border-gray-300 p-3 rounded-lg ${
+          index == -1
+            ? "bg-white text text-red-400 "
+            : " bg-slate-400 text-black"
         }`}
         disabled={index == -1 ? false : true}
         onClick={() => {
