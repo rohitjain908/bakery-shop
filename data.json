@@ -33,9 +33,9 @@
   },
   {
     "id": 5,
-    "name": "Veg Club Sandwich",
+    "name": "Grilled Pesto Paneer sandwich",
     "description": "Veg Club Sandwich is a traditional sandwich with veggies, mayonnaise filling , diced tomatoes layered in brown bread slices , grilled to perfection.",
-    "image": "/images/Veg_club_sandwich.jpg",
+    "image": "/images/GRILLEDPESTOPANEERs.jpg",
     "price": "250",
     "category": "Sandwich"
   },
